@@ -1,0 +1,20 @@
+.promo {
+
+}
+
+.promo__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.promo__title {
+    display: inline-block;
+    font-size: 48px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+.promo__info {
+    display: inline-block;
+}
